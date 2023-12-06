@@ -1,0 +1,40 @@
+---
+title: "Mosaab Boustta"
+title-block-style: none
+image: images/profilepicture.jpg
+sidebar: false
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/boustta_mo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mohammad-boustta-68b2a4191/
+    - icon: github
+      text: Github
+      href:  https://github.com/m0saan
+---
+
+👋 **Hello there!** I'm Mosaab, a passionate and self-driven computer science student navigating the challenges at [1337 Coding School](https://www.1337.ma/).
+
+In this space, my goal is to offer **practical tutorials and guides** centered around AI/ML. I firmly believe in the power of hands-on experience, starting with implementation and then delving into comprehensive explanations. My commitment extends to keeping abreast of the latest research, and I take pleasure in sharing my knowledge and insights through the content you'll find on this blog.
+
+Join me on this journey of exploration and learning—we're bound to have some fun and pick up valuable insights along the way!
+
+Feel free to reach out via email at <a href="mailto:moboustt&commat;student.1337.ma">this address</a>.
+
+<hr>
+
+## Professional Journey
+1. **Member Of Technical Staff [Full-time],** Oracle, Nov 2022 – Dec 2023
+2. **Research Assistant [Internship],** Oracle, May 2022 – Nov 2022
+
+## Academic Pursuits
+- **IT Architecture Expert (RNCP 36137),** Computer Science, 1337 Coding School
+
+## Let's Connect:    
+- [LinkedIn](https://www.linkedin.com/in/mohammad-boustta-68b2a4191/)    
+- [Twitter](https://twitter.com/boustta_mo)    
+- [Github](https://github.com/m0saan)
